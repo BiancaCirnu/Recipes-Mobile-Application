@@ -65,5 +65,6 @@ All the crud operations should be persistent on the local db and, as soon as the
 
 
 
+<img width="767" height="611" alt="image" src="https://github.com/user-attachments/assets/9fce13d8-990d-43d2-ac76-47918d9ab8c1" />
 
 
